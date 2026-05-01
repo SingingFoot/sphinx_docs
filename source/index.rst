@@ -670,6 +670,7 @@ glossary auto-generators. Every extension follows the same ``setup(app)`` contra
    api/about
    api/oauth
    api/get_users
+   api/errors
 
 .. toctree::
    :maxdepth: 2
@@ -678,6 +679,7 @@ glossary auto-generators. Every extension follows the same ``setup(app)`` contra
 
    ai/chatgpt
    ai/grammarly
+   ai/claude
 
 .. toctree::
    :maxdepth: 2
